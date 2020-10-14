@@ -5,7 +5,7 @@ The dataset is an open-source dataset provided by Instacart ([source](https://ww
  > This anonymized dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
 For each user, we provide between 4 and 100 of their orders, with the sequence of products purchased in each order. We also provide the week and hour of day the order was placed, and a relative measure of time between orders.
 
-Below is the full data schema ([source](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b))
+Below is the full data schema
 
  > `orders` (3.4m rows, 206k users):
  > * `order_id`: order identifier
