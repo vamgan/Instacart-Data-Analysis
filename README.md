@@ -41,5 +41,4 @@ Below is the full data schema
  > * `"train"`: training data supplied to participants (~131k orders)
  > * `"test"`: test data reserved for machine learning competitions (~75k orders)
 
-The task is to predict which products a user will reorder in their next order. The evaluation metric is the F1-score between the set of predicted products and the set of true products.
 
